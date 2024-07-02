@@ -1,13 +1,7 @@
 texting line
-<<<<<<< HEAD
+untesting file
 commit test
-456
-<<<<<<< HEAD
-=======
-789.
->>>>>>> 08542edc1212d7e0de018c37047a56ac80c398ad
-=======
-
+test
 456
 789.
->>>>>>> 27cc02dd204ee4ee1507b8199d4b5446c91d2ce4
+Add Line
